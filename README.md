@@ -6,8 +6,7 @@ It's a complete shopping cart project with the following functionalities :-
 
 - Products (men / electronics) and categories listing.  
 - Adding products to the cart.  
-- Full and quick product view with product information.
-- Complete cart calculations with 5% VAT.  
+- Full and quick product view with product information. 
 - User can edit/delete items in the cart.
 - User can set shipping address and checkout (place order of) items in the cart.
 - User can register and log in and manage his/her cart.
