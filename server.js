@@ -1,7 +1,7 @@
 // GitHub source: server.js
 require('zone.js/dist/zone-node');
 require('reflect-metadata');
- const cors= require('cors');
+const cors= require('cors');
 const express = require('express');
 const bodyParser = require('body-parser');
 const path = require('path');

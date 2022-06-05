@@ -217,7 +217,7 @@ insertToOrderHistory( body ) {
     this.detach();
   });
 }
-/**************** ends *************/\
+/**************** ends *************/
 
 setInformation() {
    this.attach();
